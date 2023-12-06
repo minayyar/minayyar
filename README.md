@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @minayyar 
-- 👀 I’m interested in learning new things
-- 🌱 I’m currently learning DevOps
+- 🌱 I’m currently working as a DevOps Engineer.
 - 💞️ I’m looking to collaborate.
 - 📫 you can reach through my Email "minayyar1@gmail.com"
 
